@@ -1,0 +1,10 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e4efec17_002Dcb34_002D474d_002Db5e6_002Ddbcbd0a65f60/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TestLoad" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::8BF960C1-DDED-4A55-A4E8-DEE4EED12912::net8.0::TextFileDatabase.Tests.CsvObjectLoaderTests.TestLoadStandardHeaders_Deserialize&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::8BF960C1-DDED-4A55-A4E8-DEE4EED12912::net8.0::TextFileDatabase.Tests.CsvObjectLoaderTests.TestLoadWrongHeaders_ThrowError&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::8BF960C1-DDED-4A55-A4E8-DEE4EED12912::net8.0::TextFileDatabase.Tests.CsvObjectLoaderTests.TestLoadNoHeaders_Deserialize&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::8BF960C1-DDED-4A55-A4E8-DEE4EED12912::net8.0::TextFileDatabase.Tests.CsvObjectLoaderTests.TestSaveNoHeaders_Serialize&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::8BF960C1-DDED-4A55-A4E8-DEE4EED12912::net8.0::TextFileDatabase.Tests.CsvObjectLoaderTests.TestSaveStandardHeaders_Serialize&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
